@@ -1,3 +1,10 @@
+# brew
+## install brew and packages
+```
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ cat brew-packages.txt | xargs brew install
+```
+
 # sublime settings
 
 ## user settings
