@@ -1,16 +1,18 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"translate_tabs_to_spaces": true,
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
 
     // Theme UI (values = "Afterglow", "Afterglow-blue", "Afterglow-green", "Afterglow-magenta", "Afterglow-orange")
     "theme": "Afterglow-blue.sublime-theme",
 
 
     "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-    "tabs_small": true
-}
+    "tabs_small": true,
 
+    "highlight_line": true,
+    "scroll_past_end": true
+}
